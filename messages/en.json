@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "title": "Sunha Care Foundation | Together We Can Build A Better Future",
+    "description": "A modern humanitarian foundation website for Sunha Care Foundation with programs in education, healthcare, food support, emergency relief, and volunteer action."
+  },
+  "common": {
+    "brand": "Sunha Care Foundation",
+    "developedBy": "Developed by NH Mizan",
+    "allRightsReserved": "(c) 2026 Sunha Care Foundation. All rights reserved.",
+    "languageLabel": "Language",
+    "themeToggle": "Toggle theme",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "loading": "Loading Sunha Care Foundation"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "volunteers": "Volunteers",
+    "blog": "Blog",
+    "contact": "Contact",
+    "donate": "Donate Now"
+  },
+  "hero": {
+    "eyebrow": "Compassion in action for stronger communities",
+    "title": "Together We Can Build A Better Future",
+    "description": "Sunha Care Foundation stands beside families with healthcare, education support, food relief, and volunteer-powered humanitarian action.",
+    "primaryCta": "Make a Donation",
+    "secondaryCta": "Join as Volunteer",
+    "floatingLabel": "Emergency relief reaching families faster",
+    "stats": [
+      { "value": "25K+", "label": "Lives supported through food, medicine, and care" },
+      { "value": "120+", "label": "Active volunteers serving local communities" },
+      { "value": "18", "label": "District outreach campaigns delivered yearly" }
+    ],
+    "impactCard": {
+      "title": "Families First",
+      "label": "Monthly Impact",
+      "tag": "Live Campaign",
+      "progressLabel": "Food support delivered",
+      "children": "Children enrolled",
+      "camp": "Medical camp visits"
+    }
+  },
+  "about": {
+    "eyebrow": "About The Foundation",
+    "title": "Local compassion with a long-term development mindset.",
+    "description": "Sunha Care Foundation is a community-driven NGO restoring dignity through trusted support systems. We combine urgent aid with sustainable pathways in health, education, and social care.",
+    "missionTitle": "Mission",
+    "mission": "To deliver practical aid and compassionate care that helps vulnerable families feel safe, supported, and seen.",
+    "visionTitle": "Vision",
+    "vision": "A future where every person can access essential support, opportunity, and hope regardless of circumstance.",
+    "stats": [
+      { "value": "12+", "label": "Years of service" },
+      { "value": "40+", "label": "Community partnerships" },
+      { "value": "96%", "label": "Aid delivery transparency" }
+    ]
+  },
+  "services": {
+    "eyebrow": "Core Services",
+    "title": "Human-centered programs that respond to real needs.",
+    "description": "Every initiative is designed to create relief today while opening better possibilities for tomorrow.",
+    "items": [
+      { "title": "Food Distribution", "description": "Nutritious food packs and hot meals for families facing daily hunger." },
+      { "title": "Free Medical Support", "description": "Doctor consultations, medicine access, and health camps in underserved areas." },
+      { "title": "Education Support", "description": "School supplies, tuition assistance, and learning spaces for children." },
+      { "title": "Emergency Relief", "description": "Rapid response for disasters, crises, and urgent family emergencies." },
+      { "title": "Winter Clothes Donation", "description": "Blankets, sweaters, and protective winter essentials for vulnerable people." },
+      { "title": "Blood Donation", "description": "Volunteer blood donor networks that respond quickly when every minute matters." }
+    ]
+  },
+  "donation": {
+    "eyebrow": "Fundraising Goal",
+    "title": "Your donation can keep hope moving forward.",
+    "description": "This campaign helps us expand food assistance, life-saving medicine, and emergency response for families under pressure.",
+    "primaryCta": "Donate Now",
+    "secondaryCta": "Become Volunteer",
+    "progressTitle": "Emergency Family Support",
+    "progressLabel": "Donation Progress",
+    "progressTag": "72% funded",
+    "raised": "Raised Amount",
+    "goal": "Goal Amount",
+    "whyTitle": "Why It Matters",
+    "whyText": "A single campaign can fund emergency food packs, treatment support, and temporary shelter for hundreds of people facing sudden hardship."
+  },
+  "volunteer": {
+    "eyebrow": "Volunteer Community",
+    "title": "Join the people who turn compassion into organized action.",
+    "description": "Your time, skills, and presence can become direct support for families navigating hunger, illness, and educational barriers.",
+    "benefits": [
+      "Hands-on humanitarian field experience",
+      "Leadership and team-building opportunities",
+      "Training, mentorship, and safety support",
+      "Flexible roles for students and professionals"
+    ],
+    "highlights": [
+      { "value": "1,500+", "label": "volunteers mobilized" },
+      { "value": "320", "label": "families reached monthly" },
+      { "value": "48 hrs", "label": "average emergency response window" }
+    ],
+    "ctaTitle": "Why people stay",
+    "ctaText": "Volunteers do not just assist programs. They help shape safer, kinder, more resilient neighborhoods through visible and sustained care.",
+    "primaryCta": "Join the Team",
+    "secondaryCta": "Hear Volunteer Stories",
+    "formTitle": "Start your volunteer journey",
+    "formSubtitle": "Join Form",
+    "fields": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "interest": "Interest area",
+      "message": "Why do you want to join?",
+      "submit": "Send Volunteer Request"
+    }
+  },
+  "stories": {
+    "eyebrow": "Success Stories",
+    "title": "Real people. Visible outcomes. Lasting impact.",
+    "description": "Stories from families and volunteers who have experienced what sustained community care can change.",
+    "spotlight": "Testimonial Spotlight",
+    "voices": "Voices from the field",
+    "impactLabel": "Impact",
+    "items": [
+      {
+        "name": "Amina Rahman",
+        "role": "Scholarship recipient",
+        "quote": "Sunha Care helped me return to school with books, mentoring, and the confidence to dream bigger again.",
+        "impact": "Back in school after a one-year interruption"
+      },
+      {
+        "name": "Rafiq Hasan",
+        "role": "Volunteer coordinator",
+        "quote": "Every outreach day reminds me that organized compassion can move faster than crisis when people show up together.",
+        "impact": "Led 22 neighborhood relief drives in 2025"
+      },
+      {
+        "name": "Shila Akter",
+        "role": "Mother and health camp visitor",
+        "quote": "The medical camp gave my family care we could not afford and treated us with dignity from the first moment.",
+        "impact": "Accessed medicine and follow-up care for her children"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "NGO Activity Gallery",
+    "title": "Moments that show care in motion.",
+    "description": "A visual record of donation drives, volunteer efforts, support for families, and learning opportunities across the communities we serve.",
+    "items": [
+      { "title": "Donation Activities", "category": "Donation drive" },
+      { "title": "Helping People", "category": "Field support" },
+      { "title": "Volunteer Work", "category": "Volunteer network" },
+      { "title": "Education Support", "category": "Learning program" },
+      { "title": "Community Meal", "category": "Food assistance" },
+      { "title": "Care in Action", "category": "Outreach day" }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Recent News",
+    "title": "Updates from the field and the people behind the work.",
+    "description": "Explore stories about program growth, outreach days, and the behind-the-scenes work that keeps humanitarian action moving.",
+    "readMore": "Read more",
+    "seeMore": "See more",
+    "featuredLabel": "Featured story",
+    "allPostsTitle": "Stories, event updates, and community reports",
+    "allPostsDescription": "Browse the latest articles from Sunha Care Foundation, filter by category, and open each story for the full details.",
+    "searchPlaceholder": "Search blog posts",
+    "searchButton": "Search",
+    "allCategories": "All",
+    "showingResults": "Showing",
+    "resultsFor": "results for",
+    "emptyTitle": "No posts found",
+    "emptyDescription": "Try another keyword or clear the category filter to see all stories again.",
+    "previousPage": "Previous",
+    "nextPage": "Next",
+    "pageLabel": "Page",
+    "backToBlog": "Back to all stories",
+    "shareLabel": "Share story",
+    "sidebarEyebrow": "Join us",
+    "sidebarTitle": "Stand beside communities with practical, steady support",
+    "sidebarDescription": "Contribute, volunteer, or partner with Sunha Care Foundation to keep each program moving.",
+    "sidebarPrimaryCta": "Donate now",
+    "sidebarSecondaryCta": "Contact us",
+    "posts": [
+      {
+        "slug": "mobile-health-camps-reaching-overlooked-families",
+        "title": "How mobile health camps are reaching overlooked families",
+        "category": "Healthcare",
+        "date": "May 10, 2026",
+        "excerpt": "Volunteer doctors, medicine support, and referral desks are helping families receive care much closer to home.",
+        "summary": "A closer look at how mobile health camps are reducing travel barriers and connecting families with primary care.",
+        "content": [
+          "Many families in under-served neighborhoods postpone treatment because reaching a clinic costs time, transport, and a lost workday. Our mobile health camp model is designed to bring first-response care into those neighborhoods instead of asking every patient to travel.",
+          "Each camp combines registration, triage, consultation, basic medicine distribution, and follow-up referrals in one coordinated flow. This helps older adults, women, and children receive attention faster while volunteers guide them through each step.",
+          "The strongest lesson from recent camps is that consistency matters as much as scale. When residents know the team will return, they are more willing to seek care early and share health concerns before they become emergencies.",
+          "We are also using camp reports to track common symptoms, medicine needs, and referral trends so future visits can be planned with better staffing and supplies."
+        ]
+      },
+      {
+        "slug": "inside-our-volunteer-led-education-support-weekends",
+        "title": "Inside our volunteer-led education support weekends",
+        "category": "Education",
+        "date": "May 4, 2026",
+        "excerpt": "Weekend learning circles are giving students structured revision time, caring mentors, and a stronger reason to stay engaged.",
+        "summary": "What happens inside our weekly education sessions and why volunteer-led consistency is changing student confidence.",
+        "content": [
+          "Our education support weekends are built around simple but reliable structure: subject review, small-group mentoring, practice time, and open discussion. That rhythm helps learners know what to expect and lets volunteers focus on progress instead of constant reset.",
+          "Many students joining the sessions are balancing school with family responsibilities. By creating a welcoming routine and shorter learning goals, the program helps them return each week without feeling overwhelmed.",
+          "Volunteer facilitators also share study methods, exam planning habits, and encouragement that students may not always receive elsewhere. Those relationships are often what keeps attendance steady over time.",
+          "As the program grows, we are refining lesson packs and attendance tracking so more neighborhoods can run the same format with local volunteer teams."
+        ]
+      },
+      {
+        "slug": "preparing-food-relief-packs-before-monsoon-season",
+        "title": "Preparing food relief packs before monsoon season",
+        "category": "Relief Work",
+        "date": "April 28, 2026",
+        "excerpt": "Packing begins before the first major storms so emergency support can move quickly when families face waterlogging and income loss.",
+        "summary": "Why early preparation for relief packs matters and how volunteers organize supplies ahead of the monsoon period.",
+        "content": [
+          "Emergency response works best when packaging, sourcing, and routing decisions are made before severe weather disrupts movement. That is why monsoon preparation starts with inventory planning and volunteer scheduling rather than waiting for urgent calls.",
+          "Food relief packs are assembled with practical essentials that can support households through short-term disruption. Teams also separate stock for quick dispatch so field delivery can begin without repacking.",
+          "Local coordination remains essential because roads, water levels, and shelter needs shift from one area to another. Our volunteers use recent field updates to decide which packs, vehicles, and contact chains should be ready first.",
+          "By the time heavy rain begins, the goal is simple: fewer delays between community need and the first round of support."
+        ]
+      },
+      {
+        "slug": "community-clinics-follow-up-days-improving-treatment",
+        "title": "Community clinic follow-up days are improving treatment continuity",
+        "category": "Healthcare",
+        "date": "April 17, 2026",
+        "excerpt": "Return visits are helping patients complete treatment plans instead of stopping after the first consultation.",
+        "summary": "Follow-up days are turning one-time consultations into steadier care for patients with ongoing health concerns.",
+        "content": [
+          "A first consultation can solve immediate questions, but many patients need another check-in to stay on track with treatment. Our follow-up days are meant to close that gap and make care more dependable.",
+          "Patients returning to the same care stream have an easier time discussing medicine response, symptom changes, and unanswered concerns. That continuity also allows volunteers to better support records and referrals.",
+          "The model is especially useful for chronic issues that require behavior change or repeated observation. Instead of treating outreach as a one-day event, it becomes a sequence of connected steps.",
+          "We are learning that even a modest follow-up structure can improve trust, attendance, and treatment completion rates."
+        ]
+      },
+      {
+        "slug": "youth-volunteers-mapping-neighborhood-learning-needs",
+        "title": "Youth volunteers are mapping neighborhood learning needs",
+        "category": "Volunteer Network",
+        "date": "April 9, 2026",
+        "excerpt": "Local volunteers are identifying where tutoring, supplies, and family outreach are most urgently needed.",
+        "summary": "A grassroots mapping process is helping volunteer teams prioritize where education support should expand next.",
+        "content": [
+          "Before launching new education support circles, youth volunteers are walking through neighborhoods and speaking with families, local leaders, and students. The goal is to understand where the biggest learning gaps and participation barriers exist.",
+          "This local mapping process highlights practical issues such as transport distance, exam pressure, lack of quiet study space, and limited access to learning materials. That information shapes both location choice and session timing.",
+          "Because the mapping is volunteer-led, the process also builds local ownership. The same young people helping gather information often become the first line of support once activities begin.",
+          "Over time, this approach should help the foundation open fewer generic programs and more community-specific ones."
+        ]
+      },
+      {
+        "slug": "teacher-workshops-are-helping-parents-support-learning-at-home",
+        "title": "Teacher workshops are helping parents support learning at home",
+        "category": "Education",
+        "date": "March 26, 2026",
+        "excerpt": "Short workshops are giving families simple ways to support reading habits, homework routines, and attendance.",
+        "summary": "Parent-focused workshops are making home study support more practical and less intimidating.",
+        "content": [
+          "Parents often want to support learning but are unsure where to start, especially when time is tight or formal schooling feels distant. Our teacher-led workshops focus on small, realistic habits that families can maintain.",
+          "Sessions cover reading routines, school communication, homework encouragement, and how to notice when a child is falling behind. The goal is not to shift school responsibility onto families, but to strengthen the home environment around it.",
+          "Teachers have responded well to the workshop format because it opens a calmer conversation with caregivers outside the pressure of report-day meetings.",
+          "When families understand a few clear actions they can take each week, student confidence and attendance often improve together."
+        ]
+      },
+      {
+        "slug": "field-teams-coordinating-water-and-hygiene-support",
+        "title": "Field teams are coordinating water and hygiene support before peak summer",
+        "category": "Relief Work",
+        "date": "March 14, 2026",
+        "excerpt": "Teams are planning water access and hygiene kit distribution for areas that face repeat summer shortages.",
+        "summary": "How field coordination is helping communities prepare for seasonal water stress with practical support.",
+        "content": [
+          "Seasonal heat puts immediate pressure on water access, storage, and hygiene routines, especially in densely populated neighborhoods. Our field teams begin planning early so support is based on real local pressure points rather than assumptions.",
+          "The work includes checking likely distribution points, verifying partner contacts, and reviewing which items households request most often. Small logistical adjustments made early can save a great deal of confusion during delivery days.",
+          "Volunteers are also sharing practical guidance around storage and hygiene because infrastructure support alone is rarely enough. Families benefit most when supplies and information arrive together.",
+          "This preparation phase is less visible than event-day photos, but it is what makes the response steadier and more useful."
+        ]
+      },
+      {
+        "slug": "partnership-roundtables-are-shaping-the-next-program-cycle",
+        "title": "Partnership roundtables are shaping the next program cycle",
+        "category": "Community",
+        "date": "March 1, 2026",
+        "excerpt": "Local partners are helping refine priorities, prevent overlap, and focus resources where they can do the most good.",
+        "summary": "Why partner roundtables matter when planning the next cycle of healthcare, relief, and education programs.",
+        "content": [
+          "Program planning becomes stronger when local schools, health workers, community organizers, and volunteers can compare notes in the same room. Our recent roundtables were designed to gather those perspectives before the next implementation cycle begins.",
+          "Conversations focused on overlap, unmet needs, and which current initiatives are producing the clearest results. That kind of shared review helps the foundation move beyond assumptions and make sharper choices about capacity.",
+          "Partners also raised practical concerns about communication flow, reporting expectations, and volunteer handoff points between activities. Those process details often decide whether collaboration feels smooth or fragmented.",
+          "The next cycle will reflect those discussions with more deliberate sequencing between outreach, referral, and follow-up work."
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact Sunha Care",
+    "title": "Let's connect for support, partnership, or volunteering.",
+    "description": "Reach out to discuss donations, field programs, media inquiries, or collaboration opportunities with our foundation.",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "18 Green Road, Dhanmondi, Dhaka 1205, Bangladesh",
+    "formTitle": "We usually respond within 1-2 working days",
+    "formSubtitle": "Contact Form",
+    "visitTitle": "Visit Us",
+    "visitOffice": "Sunha Care Foundation Office",
+    "hours": "9 AM - 6 PM",
+    "fields": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "topic": "Topic",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "auth": {
+    "login": {
+      "eyebrow": "Sunha Care Foundation",
+      "title": "Welcome back",
+      "heroTitle": "Sign in to continue supporting communities with care.",
+      "heroDescription": "Access your volunteer, donor, or coordinator dashboard to follow campaign progress, manage requests, and stay connected to Sunha Care Foundation initiatives.",
+      "description": "Sign in to access volunteer coordination, donation tracking, and foundation updates.",
+      "stats": [
+        { "value": "1,500+", "label": "Volunteer members" },
+        { "value": "40+", "label": "Partner networks" },
+        { "value": "24/7", "label": "Humanitarian coordination" }
+      ],
+      "email": "Email address",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "submit": "Sign In",
+      "divider": "or continue with",
+      "google": "Google",
+      "facebook": "Facebook",
+      "secureTitle": "Secure foundation access",
+      "secureText": "This portal is designed for donors, volunteers, and program coordinators with privacy-first account access.",
+      "contactEmail": "hello@sunhacare.org",
+      "footerText": "Don't have an account?",
+      "footerLink": "Create one",
+      "toastTitle": "Login UI ready",
+      "toastDescription": "Authentication backend can be connected next without changing this screen."
+    },
+    "register": {
+      "eyebrow": "Volunteer & Donor Access",
+      "title": "Create account",
+      "heroTitle": "Create your Sunha Care Foundation account.",
+      "heroDescription": "Join a growing network of donors, volunteers, and coordinators working together to deliver relief, dignity, and opportunity.",
+      "description": "Create a foundation account for volunteer engagement, donor communication, and coordinated community support.",
+      "features": [
+        {
+          "title": "Volunteer Coordination",
+          "description": "Track activities, training, and upcoming campaigns from one place."
+        },
+        {
+          "title": "Donation Visibility",
+          "description": "Stay connected to current needs, project progress, and contribution updates."
+        },
+        {
+          "title": "Community Access",
+          "description": "Receive notices, invitations, and field engagement opportunities directly."
+        }
+      ],
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "role": "Interested role",
+      "password": "Password",
+      "consent": "I agree to receive updates, volunteer opportunities, and foundation communication from Sunha Care Foundation.",
+      "submit": "Create Account",
+      "divider": "or continue with",
+      "google": "Google",
+      "facebook": "Facebook",
+      "footerText": "Already have an account?",
+      "footerLink": "Sign in",
+      "toastTitle": "Registration UI ready",
+      "toastDescription": "The signup experience is prepared and ready for backend/API integration."
+    }
+  },
+  "footer": {
+    "about": "Sunha Care Foundation delivers reliable humanitarian support through food assistance, healthcare access, education programs, emergency response, and volunteer-led community outreach.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterText": "Get updates on campaigns, volunteer opportunities, and stories of impact from Sunha Care.",
+    "newsletterPlaceholder": "Your email address",
+    "newsletterButton": "Subscribe Now"
+  }
+}

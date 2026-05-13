@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --color-surface: #ffffff;
+  --color-brand: #0f766e;
+  --color-brand-deep: #134e4a;
+  --color-secondary: #14b8a6;
+  --color-accent: #f59e0b;
+  --color-muted: #64748b;
+  --font-sans: "Trebuchet MS", "Segoe UI", sans-serif;
+  --font-display: "Hind Siliguri", "Trebuchet MS", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", "Consolas", "Liberation Mono", monospace;
+}
+
+html.theme-dark {
+  --background: #071510;
+  --foreground: #ecf4ef;
+  --color-surface: #10201a;
+  --color-brand: #14b8a6;
+  --color-brand-deep: #0b3d39;
+  --color-secondary: #2dd4bf;
+  --color-accent: #f59e0b;
+  --color-muted: #9db1a7;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  transition:
+    background-color 250ms ease,
+    color 250ms ease;
+  background-image:
+    radial-gradient(circle at top left, rgba(15, 118, 110, 0.08), transparent 28%),
+    radial-gradient(circle at bottom right, rgba(245, 158, 11, 0.08), transparent 24%);
+}
+
+html.theme-dark body {
+  background-image:
+    radial-gradient(circle at top left, rgba(20, 184, 166, 0.08), transparent 24%),
+    radial-gradient(circle at bottom right, rgba(245, 158, 11, 0.08), transparent 20%);
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+select,
+textarea,
+button {
+  font: inherit;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: inherit;
+  opacity: 0.58;
+}
+
+[lang="bn"] {
+  --font-sans: "Hind Siliguri", "Trebuchet MS", "Segoe UI", sans-serif;
+  --font-display: "Hind Siliguri", "Trebuchet MS", "Segoe UI", sans-serif;
+  font-family: "Hind Siliguri", "Trebuchet MS", "Segoe UI", sans-serif;
+}
+
+[lang="bn"] h1,
+[lang="bn"] h2,
+[lang="bn"] h3,
+[lang="bn"] h4,
+[lang="bn"] h5,
+[lang="bn"] h6,
+[lang="bn"] p,
+[lang="bn"] span,
+[lang="bn"] a,
+[lang="bn"] button,
+[lang="bn"] label,
+[lang="bn"] input,
+[lang="bn"] textarea,
+[lang="bn"] select {
+  font-family: "Hind Siliguri", "Trebuchet MS", "Segoe UI", sans-serif;
+}
+
+::selection {
+  background: rgba(20, 184, 166, 0.22);
+}
